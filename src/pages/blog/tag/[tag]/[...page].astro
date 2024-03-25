@@ -40,7 +40,7 @@ const params = Astro.params;
         {page.data.map((post) => (
           <>
             <HorizontalCard
-              title={post.data.title}
+              title={post.data.title1}
               img={post.data.heroImage}
               desc={post.data.description}
               url={"/blog/" + createSlug(post.data.title, post.slug)}

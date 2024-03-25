@@ -1,9 +1,10 @@
 ---
-title: "Demo Post 1"
+title: "Demo"
+title1: "我的第一条博客标题"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 pubDate: "Sep 10 2022"
 heroImage: "/post_img.webp"
-tags: ["tokio"]
+tags: ["读书会","日记",'css']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
